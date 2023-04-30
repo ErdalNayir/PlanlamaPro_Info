@@ -1,4 +1,5 @@
- <div align="center" style="color:red;">
+#### For english click [here](https://github.com/PlanlamaPro/PlanlamaPro_Info/blob/main/README_EN.md)
+<div align="center" style="color:red;">
      <img src="https://github.com/PlanlamaPro/PlanlamaPro_Info/blob/main/assets/images/logo_transparent.png" alt=”logo” height="300px" widht="300px">
  <h1>Planlı Yaşa, Hayatı Yaşa</h1>
  </div>
@@ -66,7 +67,7 @@ Beş kişilik takım olarak biz ortaya çıkardığımız bu uygulamadan dolayı
 En basit katkıyı sağlayan bireyi bile projemizin ve ekibimizin bir parçası olarak görüyoruz. Sizlerden alacağımız destek için heyecanlıyız. 
 
 #### Discord sunucumuza katılmak için [tıklayın](https://discord.gg/TgDRXbZamZ)
-#### For english click [here](https://github.com/PlanlamaPro/PlanlamaPro_Info/blob/main/README_EN.md)
+
 
 
 
